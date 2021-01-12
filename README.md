@@ -1,10 +1,10 @@
 <div>
 <img width="838" alt="스크린샷 2021-01-13 오전 12 13 44" src="https://user-images.githubusercontent.com/68217675/104333128-3c1b1400-5534-11eb-9b80-6a47fee115ed.png">
 </div>
-<p align="center"> Hi there 👋 I'm Sewon,Shin 😊 </p>
+## <p align="center"> Hi there 👋 I'm Sewon,Shin 😊 </p>
 
 <p align="center">
-Good day!<br>
+### Good day!<br>
 I hope that only good things happen to those who are reading my articles like this. <br>
 I love travel, exercise and nature, I am a Front-end developer living in South Korea. <br>
 I hope to communicate with everyone who is reading this article. <br>
