@@ -3,10 +3,18 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 	
   </div>
+  
+  # Hi there 👋 I'm Sewon,Shin 😊 
+  
+Good day!
+I hope that only good things happen to those who are reading my articles like this.
+I love travel, exercise and nature, I am a Front-end developer living in South Korea.
+I hope to communicate with everyone who is reading this article.
+If you want yo contact me, please leave me a message 😊
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shinsewon)](https://github.com/shinsewon-readme-stats)
 
-### Hi there 👋
+
 
 <!--
 **shinsewon/shinsewon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
