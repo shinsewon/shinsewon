@@ -22,9 +22,6 @@
   <a href="https://velog.io/@shin6403"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>&nbsp
  <a href="https://www.instagram.com/s_sewon/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/s_sewon/"/></a>&nbsp
   <a href="mailto:shin6403@gamil.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=shin6403@gamil.com"/></a>
-	
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/sewon.shin.96)](https://www.facebook.com/sewon.shin.96)
-
 </p>
 <br>
 
