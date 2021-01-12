@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<div align=center>
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=github&link=https://velog.io/@shin6403)](https://velog.io/@shin6403)
 	
 	
@@ -42,4 +42,4 @@ Here are some ideas to get you started:
 	
 	
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:shin6403@gmail.com)](mailto:shin6403@gmail.com)
-	
+  <div>
