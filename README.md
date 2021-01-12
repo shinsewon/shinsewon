@@ -7,7 +7,7 @@
   # Hi there 👋 I'm Sewon,Shin 😊 
   
 Good day!
-I hope that only good things happen to those who are reading my articles like this.
+I hope that only good things happen to those who are reading my articles like this. <br>
 I love travel, exercise and nature, I am a Front-end developer living in South Korea.
 I hope to communicate with everyone who is reading this article.
 If you want yo contact me, please leave me a message 😊
