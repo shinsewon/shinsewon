@@ -8,8 +8,8 @@
   
 Good day!
 I hope that only good things happen to those who are reading my articles like this. <br>
-I love travel, exercise and nature, I am a Front-end developer living in South Korea.
-I hope to communicate with everyone who is reading this article.
+I love travel, exercise and nature, I am a Front-end developer living in South Korea. <br>
+I hope to communicate with everyone who is reading this article. <br>
 If you want yo contact me, please leave me a message 😊
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shinsewon)](https://github.com/shinsewon-readme-stats)
