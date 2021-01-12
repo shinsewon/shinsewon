@@ -1,5 +1,5 @@
 <div>
-<img width="838" alt="sewonshin" src="https://user-images.githubusercontent.com/68217675/104330986-e80f3000-5531-11eb-81c8-4831e2a9a5e4.png">
+<img width="838" alt="스크린샷 2021-01-13 오전 12 13 44" src="https://user-images.githubusercontent.com/68217675/104333128-3c1b1400-5534-11eb-9b80-6a47fee115ed.png">
 </div>
 
 
