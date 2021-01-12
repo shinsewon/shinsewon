@@ -1,7 +1,7 @@
 <div>
 <img width="838" alt="스크린샷 2021-01-13 오전 12 13 44" src="https://user-images.githubusercontent.com/68217675/104333128-3c1b1400-5534-11eb-9b80-6a47fee115ed.png">
 </div>
-<p align="center">🇰🇷 </p>
+<p align="center"> Hi there 👋 I'm Sewon,Shin 😊 </p>
 
 <p align="center">
 Good day!<br>
@@ -22,8 +22,7 @@ If you want yo contact me, please leave me a message 😊
   <br>
 </p>
 
-<br><br>
-<h3 align="center"> Hi there 👋 I'm Sewon,Shin 😊  </h3>
+<h3 align="center"> Connect with me 🇰🇷 : </h3>
 <p align="center">
   <a href="https://velog.io/@shin6403"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>&nbsp
  <a href="https://www.instagram.com/s_sewon/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/s_sewon/"/></a>&nbsp
