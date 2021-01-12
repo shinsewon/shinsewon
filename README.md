@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 -->
 
 <div align=center>
+	
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=github&link=https://velog.io/@shin6403)](https://velog.io/@shin6403)
 	
 	
